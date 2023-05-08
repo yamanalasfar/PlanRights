@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
 
-Widget Title(String title) {
+Widget TitleContainer(String title) {
   return Text(title);
 }
